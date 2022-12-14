@@ -3,8 +3,8 @@ import { theme } from '../../theme/index';
 
 export const styles = StyleSheet.create({
   container: {
-    width: 104,
-    height: 112,
+    width: 90,
+    height: 100,
     justifyContent: 'center',
     alignItems: 'center',
     padding: 8,
